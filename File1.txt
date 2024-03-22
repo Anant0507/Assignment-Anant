@@ -1,5 +1,7 @@
 this line is in branch1
 This line is in Master Branch
+This is new line in branch1
+This line is from github
 
 This is new Line in Master
 This is new line in branch1
