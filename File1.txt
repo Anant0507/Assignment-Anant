@@ -1,2 +1,4 @@
 this line is in branch1
 This line is in Master Branch
+
+This is new Line in Master
